@@ -23,4 +23,9 @@
 *Ter instalado no seu computador Ireport;
 
 *Utilizar o projeto com o banco de dados aberto.
+
+# Telas do Projeto 
+
+![Tela Login](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Login.PNG)
+![Tela Login2](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Login2.PNG)
  
