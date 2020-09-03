@@ -28,4 +28,6 @@
 
 ![Tela Login](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Login.PNG)
 ![Tela Login2](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Login2.PNG)
+![Tela Gerente](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Gerente.PNG)![Tela Gerente2](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20Gerente2.PNG)
+![Tela funcionario](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20funcionario.PNG)![Tela funcionario2](https://github.com/Pedro-Landin/Projeto-Software-Lanchonete/blob/master/Imagens%20Projeto/Tela%20funcionario2.PNG)
  
